@@ -100,15 +100,34 @@ Using 7 models
 ## Feature importance
 Feature importance was confirmed for two models with excellent performance, XGBoost and LightGBM.
 
-XGBoost
-![Scikit-learn : XGB ](Sklearn_XGB)
+### SHAP
 
-![SHAP : XGB](SHAP_XGB)
+XGB 
+
+![SHAP : XGB](SHAP_XGB.png)
+
+<br>
 
 LightGBM
-![Scikit-learn : LightGBM ](Sklearn_lgbm)
 
-![SHAP : LightGBM ](SHAP_lgbm)
+![SHAP : LightGBM ](SHAP_lgbm.png)
+
+### Sklearn 
+
+XGB
+
+![Scikit-learn : XGB ](Sklearn_XGB.png)
+
+<br>
+
+LightGBM
+
+![Scikit-learn : LightGBM ](Sklearn_lgbm.png)
+<br>
+
+
+
+
 
 
 
