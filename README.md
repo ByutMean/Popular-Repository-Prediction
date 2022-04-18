@@ -2,7 +2,7 @@
 This repository implement a machine learning model that predicts the popular repository.
 
 <br>
-
+ 
 ## About this project
 In this project, I use machine learning models that classify popular GitHub repositories. 
 We collect 28 indicators corresponding to three categories of repository, owner, and contributor, and then use seven machine learning classification models and compare their respective performances.
