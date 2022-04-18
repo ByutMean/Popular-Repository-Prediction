@@ -10,6 +10,7 @@ We collect 28 indicators corresponding to three categories of repository, owner,
 <br>
 I will upload my paper soon and , I will also refactoring code.
 
+There are several comparison models, but only the main model is uploaded.
 <br>
 
 <br>
@@ -23,7 +24,7 @@ Collect 9780 "Deep Learning" related repositories registered in 2020
 
 Collect up to 5 contributor information in order of contribution per repository
 
-Collect using [github crawler] (add link).
+Collect using [Github-Crawler](https://github.com/ByutMean/Github-Crawler).
 
 
 <br>
@@ -100,19 +101,20 @@ Using 7 models
 Feature importance was confirmed for two models with excellent performance, XGBoost and LightGBM.
 
 XGBoost
-![Scikit-learn : XGB ]()
+![Scikit-learn : XGB ](Sklearn_XGB)
 
-![SHAP : XGB]()
+![SHAP : XGB](SHAP_XGB)
 
 LightGBM
-![Scikit-learn : LightGBM ]()
+![Scikit-learn : LightGBM ](Sklearn_lgbm)
 
-![SHAP : LightGBM ]()
+![SHAP : LightGBM ](SHAP_lgbm)
 
 
 
 ## Key file
 
+```github_ML``` - It contains all the processes of pre-processing data, implementing machine learning models, and checking the Feature importance. It is necessary to refactoring.
 
 ---
 
@@ -122,4 +124,5 @@ python == 3.7
 scikit-learn 
 numpy
 pandas
+SHAP
 ```
