@@ -17,7 +17,7 @@ There are several comparison models, but only the main model is uploaded.
 
 ---
 
-## Arcitecture
+## Architecture
 
 ###  Dataset
 Collect 9780 "Deep Learning" related repositories registered in 2020
