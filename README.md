@@ -104,25 +104,25 @@ Feature importance was confirmed for two models with excellent performance, XGBo
 
 XGB 
 
-![SHAP : XGB](SHAP_XGB.png)
+![SHAP : XGB](/image/SHAP_XGB.png)
 
 <br>
 
 LightGBM
 
-![SHAP : LightGBM ](SHAP_lgbm.png)
+![SHAP : LightGBM ](/image/SHAP_lgbm.png)
 
 ### Sklearn 
 
 XGB
 
-![Scikit-learn : XGB ](Sklearn_XGB.png)
+![Scikit-learn : XGB ](/image/Sklearn_XGB.png)
 
 <br>
 
 LightGBM
 
-![Scikit-learn : LightGBM ](Sklearn_lgbm.png)
+![Scikit-learn : LightGBM ](/image/Sklearn_lgbm.png)
 <br>
 
 
